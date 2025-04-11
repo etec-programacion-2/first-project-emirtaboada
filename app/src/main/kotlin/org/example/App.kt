@@ -11,5 +11,9 @@ class App {
 }
 
 fun main() {
+    val nombre: String = "emir"
+    var edad = 15
+    println("Hola $nombre")
+    println("Tengo $edad")
     println(App().greeting)
 }
