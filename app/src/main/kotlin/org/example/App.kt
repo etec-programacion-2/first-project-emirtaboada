@@ -12,7 +12,7 @@ class App {
 
 fun main() {
     val nombre: String = "Pancho"
-    var edad = 15
+    var edad = 35
     println("Hola $nombre")
     println("Tengo $edad")
     println(App().greeting)
